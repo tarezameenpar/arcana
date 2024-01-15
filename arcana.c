@@ -129,8 +129,7 @@ void game1intro(){
 	printf("\t\tS --- Represents START\n\t\tE --- Represents END\n\t\tO --- Represent Deathcap Mushrooms\n\n\n\n");
 	printf("\t\t\t\t\tGood luck! May the odds ever be in your favour\n\n\n\n");
 	printf("\t\tPRESS ANY KEY TO CONTINUE...");
-	getch();
-	
+	getch();	
 }
 
 int playerX, playerY;
